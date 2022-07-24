@@ -94,8 +94,8 @@ a{
     margin-bottom: 18px;
     text-transform: uppercase;
     color: #363636;
-    text-decoration: none;
     transition: 0.8s;
+    text-decoration: none;
 
 }
 
@@ -144,8 +144,9 @@ a{
     padding: 3px 8px;
     border: 2px solid red;
     border-radius: 5px;
-    margin: 2px 15px 17px;
     transition: 1s;
+    margin: 2px 15px 17px;
+    
    
 }
 
