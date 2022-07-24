@@ -95,7 +95,7 @@ a{
     text-transform: uppercase;
     color: #363636;
     text-decoration: none;
-    transition: 0.3s;
+    transition: 0.8s;
 
 }
 
@@ -139,16 +139,20 @@ a{
 
 .button{
     display: inline-block;
-    color: #000;
+    color:#000;
     text-decoration: none;
     padding: 3px 8px;
     border: 2px solid red;
     border-radius: 5px;
     margin: 2px 15px 17px;
+    transition: 1s;
+   
 }
 
 .button:hover{
-    animation: pulsate 3s ease-in-out;
+    background: red;
+    animation: pulsate 1s ease-in-out;
+    color: #fff;
 
 }
 
